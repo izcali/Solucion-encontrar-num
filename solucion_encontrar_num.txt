@@ -1,0 +1,6 @@
+int y, num;
+for (i:0;i<=10;i++)
+{
+ y+=X[i]; 
+}
+num=55-y;
